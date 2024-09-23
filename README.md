@@ -11,7 +11,7 @@
 
 ### 🎓 Education
 - 🏛️ **Indian Institute of Technology, Madras**
-  - 📊 B.Tech in Data Science and Programming (Sept 2022 - Dec 2026)
+  - 📊 BSC in Data Science and Programming (Sept 2022 - Dec 2026)
 - 🏫 **The Graduate School College for Women, Jamshedpur**
   - 💻 Bachelor's in Computer Applications (Aug 2021 - June 2024)
 

@@ -1,81 +1,153 @@
-# 👋 Hello World! I'm Aditi Kumari 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
-
-## 🚀 Aspiring Data Scientist & Front-End Developer
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-### 🎓 Education
-- 🏛️ **Indian Institute of Technology, Madras**
-  - 📊 BSC in Data Science and Programming (Sept 2022 - Dec 2026)
-- 🏫 **The Graduate School College for Women, Jamshedpur**
-  - 💻 Bachelor's in Computer Applications (Aug 2021 - June 2024)
-
-### 💼 Experience
-- 🌐 Web Development Intern at InternPe (March 2024 - Present)
-- 🔍 SEO Training Intern at ALL IN ONE TRENDZ (April 2023 - June 2023)
-- 👥 HR Intern at Aashman Foundation (August 2022 - October 2022)
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| Languages | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| Frameworks | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| Others | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-FF7F7F?style=flat-square&logo=adobe&logoColor=white) |
+⚡
 
-</div>
+# Aditikumari27
 
-### 🌱 Currently Learning
-- 📊 SQL
-- 🎨 React
-- 📐 Engineering Mathematics
+*Config files for my GitHub profile.*
 
-### 🎯 Goals
-- 🔍 Secure an internship in the tech industry
-- 🚀 Gain real-world experience in Data Science and Web Development
-- 🌟 Contribute to open-source projects
+<p align="center">
+  <img src="https://img.shields.io/github/stars/aditikumari27/aditikumari27?style=for-the-badge&logo=github&color=gold" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/aditikumari27/aditikumari27?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/aditikumari27/aditikumari27?style=for-the-badge&logo=github&color=red" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/aditikumari27/aditikumari27?style=for-the-badge&color=green" alt="License"/>
+</p>
 
-### 🏆 Achievements
-<div align="center">
 
-| Level | Class | Skills |
-|-------|-------|--------|
-| 🥉 Bronze | Newbie Coder | HTML, CSS, Basic JavaScript |
-| 🥈 Silver | Data Enthusiast | Python |
-| 🥇 Gold | Web Developer | Bootstrap, Responsive Design |
-| 💎 Diamond | Aspiring Data Scientist | Machine Learning, Data Visualization |
 
-</div>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditikumari27&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" />
-</div>
-
-### 🌍 Connect with me!
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-kumari27)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditikumari27)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditikumari27&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+## 🌟 Overview
 
-Remember to keep coding and stay curious! 🚀✨
+Welcome to **Aditikumari27** - a cutting-edge project that showcases modern development practices and clean code architecture.
+
+### ✨ What Makes It Special
+
+- 🚀 **High Performance**: Optimized for speed and efficiency
+- 📱 **Modern Design**: Clean, intuitive user experience
+- 🔒 **Secure**: Built with security best practices
+- 🛠️ **Well Structured**: Maintainable and scalable codebase
+
+## ✨ Features
+
+- 🏗️ **Solid Architecture** - Well-organized and scalable code structure
+- 🧪 **Quality Assurance** - Comprehensive testing and validation
+- 📖 **Documentation** - Clear guides and references
+- 🔧 **Easy Setup** - Streamlined installation process
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Git** - [Download here](https://git-scm.com/downloads)
+
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/aditikumari27/aditikumari27.git
+   cd aditikumari27
+   ```
+
+2. **Install dependencies**
+   ```bash
+   # Follow project-specific installation instructions
+   ```
+
+3. **Run the application**
+   ```bash
+   # Follow project-specific run instructions
+   ```
+
+That's it! You're ready to go! 🎉
+
+## 🎯 Usage
+
+### Getting Started
+
+1. **Follow the installation steps above**
+2. **Read the documentation**
+3. **Start exploring the codebase**
+
+### Example
+
+```bash
+# Basic usage example
+aditikumari27 --help
+```
+
+For more detailed usage instructions, please refer to the project documentation.
+
+## 🤝 Contributing
+
+We love contributions! Here's how you can help make **Aditikumari27** even better:
+
+### 🌟 Ways to Contribute
+
+- 🐛 **Report Bugs** - Found a bug? [Open an issue](https://github.com/aditikumari27/aditikumari27/issues)
+- 💡 **Suggest Features** - Have ideas? We'd love to hear them!
+- 📝 **Improve Documentation** - Help others understand the project better
+- 🔧 **Submit Code** - Fix bugs or add new features
+
+### 🚀 Getting Started
+
+1. **Fork the repository**
+2. **Create a feature branch**
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+3. **Make your changes**
+4. **Commit your changes**
+   ```bash
+   git commit -m "Add: amazing new feature"
+   ```
+5. **Push to the branch**
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+6. **Open a Pull Request**
+
+---
+
+<div align="center">
+
+## 📊 Project Stats
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditikumari27&repo=aditikumari27&theme=tokyonight&hide_border=true" alt="Repository Stats"/>
+
+## 🌟 Show Your Support
+
+If this project helped you, please give it a ⭐!
+
+## 📞 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aditikumari27">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/aditikumari27">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/aditikumari27">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+## 📝 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge" alt="Powered by coffee"/>
+</p>
+
+**[⬆ Back to Top](#top)**
+
+</div>

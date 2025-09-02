@@ -1,10 +1,13 @@
 <div align="center">
+  <!-- Animated Girl Coding GIF -->
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300px" alt="Girl coding aesthetic"/>
 </div>
 <br>
 
 <h1 align="center">
   Hi, I'm Aditi Kumari 👋
 </h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;B.S.+in+Data+Science+%40+IIT+Madras;Data-Driven+Problem+Solver;Python+%7C+SQL+%7C+Power+BI+%7C+Flask" alt="Typing SVG">
@@ -48,7 +51,6 @@
 </table>
 <hr>
 
-<hr>
 <h2> 🛠️ My Tech Stack </h2>
 <table width="100%">
   <tr>

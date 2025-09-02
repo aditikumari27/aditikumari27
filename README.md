@@ -48,13 +48,47 @@
 </table>
 <hr>
 
-<h2> 🛠️ My Tech Stack </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,flask,html,css,bootstrap,javascript,mysql,sqlite,powerbi,excel,git,github,vscode,jupyter&perline=7" />
-  </a>
-p>
 <hr>
+<h2> 🛠️ My Tech Stack </h2>
+<table width="100%">
+  <tr>
+    <td align="center" width="700"><strong>Data Science & ML</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40"/>
+      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" height="40"/>
+      <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" title="Scikit-Learn" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>BI & Visualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" title="Power BI" height="40"/>
+      <img src="https://skillicons.dev/icons?i=excel" alt="MS Excel" title="MS Excel" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web Dev & Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40"/>
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="40"/>
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40"/>
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40"/>
+      <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter" height="40"/>
+    </td>
+  </tr>
+</table>
 
 <h2> 📈 My Activity </h2>
 <div align="center">
@@ -89,5 +123,4 @@ p>
     </td>
   </tr>
 </table>
-
 <hr>
